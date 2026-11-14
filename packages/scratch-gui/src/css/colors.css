@@ -23,6 +23,9 @@ $ui-alert-orange: hsla(32, 100%, 94%, 1); /* #FFF0DF */
 $text-primary: hsla(225, 15%, 40%, 1); /* #575E75 */
 $text-primary-transparent: hsla(225, 15%, 40%, 0.75);
 
+/* Milosz's Scratch Mod brand colour */
+$brand-primary: hsla(233.4, 41.2%, 34.7%, 1); /* #343C7D */
+
 $motion-primary: hsla(215, 100%, 65%, 1); /* #4C97FF */
 $motion-tertiary: hsla(215, 60%, 50%, 1); /* #3373CC */
 
